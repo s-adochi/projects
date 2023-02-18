@@ -1,8 +1,8 @@
 # My Portfolio
-Welcome to my portfolio! This website showcases a collection of my project works, created using HTML, CSS, and JavaScript.
+Welcome to my portfolio! This website showcases a collection of my project works.
 
 Project Demo
-Check out my portfolio at https://your-portfolio-url.com.
+Check out my portfolio at https://s-adochi.github.io/projects/
 
 Technologies Used
 The following technologies were used to build this website:
@@ -19,7 +19,7 @@ Installation and Usage
 Clone the repository to your local machine
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/s-adochi/projects.git
 Open the project in your preferred code editor
 Open the index.html file in your web browser
 Customize the content and styling to suit your needs
